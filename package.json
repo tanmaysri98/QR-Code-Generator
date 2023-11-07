@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
+  },
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
